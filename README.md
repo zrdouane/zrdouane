@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **c**
 
 - 📫 How to reach me **zrdouane@student.1337.ma**
-[![zrdouane 42 stats](https://badge42.vercel.app/api/v2/stats/cl0yx1v0j0158ns5shlllmdvb?cursusId=21)]
+[![zrdouane 42 stats](https://badge42.vercel.app/api/v2/stats/cl1jrultt001109l51mtgnmck?cursusId=21)]
 
 
 <h3 align="left">Connect with me:</h3>
